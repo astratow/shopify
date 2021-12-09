@@ -33,3 +33,9 @@ In order to do this, go to Start Command Prompt with Ruby and run it
 (Start->Ruby 2.x.x-x64-msvcrt with MSYS2 -> Start Command Prompt with Ruby)
 
 Job done! Hopefully...
+
+## Linux
+
+# Ruby
+
+
